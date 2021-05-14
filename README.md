@@ -1,4 +1,4 @@
-## I am Akshay Bahadur 👨‍🚀
+## Akshay Bahadur 👨‍🚀
 
 
 #### I like to train Machine Learning models for Humans.
